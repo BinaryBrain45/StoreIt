@@ -3,7 +3,8 @@
 ![Build & Deploy](https://img.shields.io/badge/Build%20&%20Deploy-Storage%20Platform-FF6B6B)
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/5281ff0f-d936-4cfc-8877-444b67cc2d00)" alt="StoreIt Banner" width="100%" />
+  <img src="![image](https://github.com/user-attachments/assets/a9a33cd5-bee4-46c1-a59d-73bb0b5c7af8)"
+ alt="StoreIt Banner" width="100%" />
   <br />
   <div>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -24,7 +25,6 @@
 ## 🤖 Introduction
 A storage management and file sharing platform that lets users effortlessly upload, organize, and share files. Built with the latest Next.js 15 and the Appwrite Node SDK, utilizing advanced features for seamless file management.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 34k+ members. It's a place where people help each other out.
 
 ## ⚙️ Tech Stack
 * React 19
@@ -55,8 +55,8 @@ Make sure you have the following installed on your machine:
 
 ### Cloning the Repository
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/storage_management_solution.git
-cd storage_management_solution
+git clone https://github.com/BinaryBrain45/storeIt.git
+cd storeIt
 ```
 
 ### Installation
@@ -128,4 +128,3 @@ Have ideas for new features? Open an issue to describe:
 - Why you need it
 - How it should work
 
-Remember to join our Discord community if you need any help or want to discuss your contributions!
