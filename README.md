@@ -3,9 +3,9 @@
 ![Build & Deploy](https://img.shields.io/badge/Build%20&%20Deploy-Storage%20Platform-FF6B6B)
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/a9a33cd5-bee4-46c1-a59d-73bb0b5c7af8)"
- alt="StoreIt Banner" width="100%" />
-  <br />
+  <img src="public/assets/images/banner.png" alt="StoreIt Banner" width="100%" />
+</div>
+
   <div>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
